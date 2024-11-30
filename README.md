@@ -10,10 +10,10 @@
 <br><br>
 
 <a href="https://solved.ac/profile/woals1488">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
 </a>
 <a href="https://solved.ac/profile/woals1488">
-  <img src="http://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
+  <img src="https://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
 </a>
 
 <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=plastic&logo=Spring Boot&logoColor=white"/>
