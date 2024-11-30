@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&theme=highcontrast" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&theme=highcontrast" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&theme=highcontrast" />
 </a>
 
 <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=plastic&logo=Spring Boot&logoColor=white"/>
