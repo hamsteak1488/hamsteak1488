@@ -9,10 +9,10 @@
 
 <br><br>
 
-<a href="https://solved.ac/profile/woals1488">
+<a href="https://solved.ac">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
 </a>
-<a href="https://solved.ac/profile/woals1488">
+<a href="solved.ac/profile/woals1488">
   <img src="https://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
 </a>
 
