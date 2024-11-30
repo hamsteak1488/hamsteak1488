@@ -7,6 +7,13 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&theme=highcontrast" />
 </a>
 
+<a href="https://github.com/hamsteak1488">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
+</a>
+<a href="https://github.com/hamsteak1488">
+<img src="http://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
+</a>
+
 <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=plastic&logo=Spring Boot&logoColor=white"/>
 
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
