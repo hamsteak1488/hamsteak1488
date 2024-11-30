@@ -27,36 +27,24 @@
   <br> 
 </div>
 
-<div style="display: flex; flex-direction: column;">
+<div>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
     🏅 Stats
   </h2>
 
-  <div style="height: 150px; display: flex; justify-content: center;">
-    <div style="width: 100%; height: 100%; margin-right: 1%; display: flex; justify-content: right;">
-      <a style="height: 100%; " href="https://github.com/hamsteak1488">
-        <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
-      </a>
-    </div>
-    <div style="width: 100%; height: 100%; margin-left: 1%; display: flex; justify-content: left;">
-      <a style="height: 100%;" href="https://github.com/hamsteak1488">
-        <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
-      </a>
-    </div>
-  </div>
+  <a href="https://github.com/hamsteak1488">
+    <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
+  </a>
+  <a href="https://github.com/hamsteak1488">
+    <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
+  </a>
 
   <br>
-
-  <div style="height: 150px; display: flex; justify-content: center;">
-    <div style="width: 100%; height: 100%; margin-right: 1%; display: flex; justify-content: right;">
-      <a style="height: 100%;" href="https://solved.ac/profile/woals1488">
-      <img style="height: 100%;" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
-    </a>
-    </div>
-    <div style="width: 100%; height: 100%; margin-left: 1%; display: flex; justify-content: left;">
-      <a style="height: 100%;" href="https://solved.ac/profile/woals1488">
-      <img style="height: 100%;" src="https://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
-    </a>
-    </div>
-  </div>
+  
+  <a href="https://solved.ac/profile/woals1488">
+    <img style="height: 150px;" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals1488"/>
+  </a>
+  <a href="https://solved.ac/profile/woals1488">
+    <img style="height: 150px;" src="https://mazandi.herokuapp.com/api?handle=woals1488&theme=dark"/>
+  </a>
 </div>
