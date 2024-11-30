@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<a href="">
+<a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&theme=highcontrast" />
 </a>
-<a href="">
+<a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&theme=highcontrast" />
 </a>
 
