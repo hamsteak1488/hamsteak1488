@@ -20,7 +20,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
   <div style="text-align: left;">
-    <a href=https://velog.io/@hamsteak target="_blank" rel="noopener noreferrer">
+    <a href=https://velog.io/@hamsteak>
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=">
     </a>
   </div>
@@ -32,10 +32,10 @@
     🏅 Stats
   </h2>
 
-  <a href="https://github.com/hamsteak1488" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/hamsteak1488">
     <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
   </a>
-  <a href="https://github.com/hamsteak1488" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/hamsteak1488">
     <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsteak1488&layout=compact&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
   </a>
 
