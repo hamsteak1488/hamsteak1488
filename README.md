@@ -2,9 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:463c8c&height=200&text=hamsteak1488&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 소개 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요. </div> 
 </div>
+
+<br>
+
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
   <br> 
@@ -15,23 +18,28 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+    
   </div>
 </div>
+
+<br>
+
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Blogs </h2> <br> 
   <div style="text-align: left;">
-    <a href=https://velog.io/@hamsteak>
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=">
+    <a href=https://hamsteak.tistory.com/>
+      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory">
     </a>
   </div>
-  <br> 
+  <br>
 </div>
 
 <div>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
     🏅 Stats
   </h2>
-
   <a href="https://github.com/hamsteak1488">
     <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=hamsteak1488&bg_color=60,000000,463c8c&title_color=ffffff&text_color=ffffff"/>
   </a>
